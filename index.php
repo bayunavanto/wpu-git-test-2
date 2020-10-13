@@ -8,5 +8,9 @@
 <body>
     <h1>Git local to github</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur eius ratione accusantium incidunt? Mollitia ea doloremque exercitationem dolorum optio distinctio facere cupiditate esse? Architecto iusto, commodi minima harum nostrum dolores!</p>
+    <ul>
+        <li>sartu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
